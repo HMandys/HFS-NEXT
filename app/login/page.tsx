@@ -143,7 +143,7 @@ export default function Login() {
             <text className='text-gray-500 text-sm dark:text-gray-400'>
               忘记账号密码？
               <a
-                href='https://www.haofenshu.com/findPwd/?roleType=2'
+                href='https://app.haofenshu.com/findPwd/?roleType=2'
                 target='_blank'
                 className='underline hover:text-gray-700'
                 rel='noreferrer'
